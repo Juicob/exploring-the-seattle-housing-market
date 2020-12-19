@@ -1,0 +1,7 @@
+,id,name,brewery_type,street,address_2,address_3,city,state,county_province,postal_code,country,longitude,latitude,phone,website_url,updated_at
+113,7405,Cloudburst Brewing,micro,2116 Western Ave,,,Seattle,Washington,,98121-2110,United States,-122.3452717,47.6116138,2066026061,http://www.cloudburstbrew.com,2018-08-24T16:33:34.739Z
+156,7475,Fremont Brewing Co,regional,3409 Woodland Park Ave N,,,Seattle,Washington,,98103-8925,United States,-122.3444367,47.64919175,2064202407,http://www.fremontbrewing.com,2018-08-24T16:35:05.351Z
+188,7505,Holy Mountain Brewing Co,micro,1421 Elliott Ave W,,,Seattle,Washington,,98119-3104,United States,-122.3745615,47.6308277,2064988435,http://holymountainbrewing.com,2018-08-24T16:35:45.468Z
+249,7599,Optimism Brewing Company,micro,1158 Broadway,,,Seattle,Washington,,98122-3822,United States,-122.320267,47.61272,2062289227,http://www.optimismbrewing.com,2018-08-11T21:40:22.865Z
+296,7639,Reuben's Brews Taproom,micro,5010 14th Ave NW,,,Seattle,Washington,,98107-5113,United States,-122.3732468,47.6654087,2067842859,http://www.reubensbrews.com,2018-08-24T16:38:39.980Z
+354,7718,Urban Family Brewing,micro,4441 26th Ave W,,,Seattle,Washington,,98199-1218,United States,-122.3902975,47.6605861,2069468533,http://www.urbanfamilybrewing.com,2018-08-24T16:40:24.635Z
